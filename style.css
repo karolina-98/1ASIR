@@ -1,0 +1,32 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: lightgray;
+    background-repeat: no-repeat;
+}
+.container-fluid1{
+    background-color: white;
+}
+.h2{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.carousel-inner img {
+    max-width: 800px;
+    max-height: 500px;
+    object-fit: cover; /* Ajusta el contenido de la imagen */
+    margin: auto;
+}
+
+footer{
+    background: white;
+    text-align: center;
+    
+}
+#iconos i {
+    font-size: 26px;
+    padding: 0 8px;
+    color: white;
+}
+
+
